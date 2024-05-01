@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "543731832106",
+    "firebase_url": "https://fir-app-2-5511b-default-rtdb.firebaseio.com",
+    "project_id": "fir-app-2-5511b",
+    "storage_bucket": "fir-app-2-5511b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543731832106:android:b69e00e32e5f20903dba53",
+        "android_client_info": {
+          "package_name": "com.shruti.phonebookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6-PoLkXfFx1W9Rucph5caFFkzpEV7tDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
